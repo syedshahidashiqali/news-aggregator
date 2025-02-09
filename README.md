@@ -19,6 +19,9 @@ This is a **React + TypeScript** project that aggregates news from multiple sour
 
 ## 🚀 Quick Start
 
+### Try Live
+[https://news-aggregator-lyart.vercel.app/](https://news-aggregator-lyart.vercel.app/)
+
 ### Run Locally
 
 1. **Clone the Repository:**
