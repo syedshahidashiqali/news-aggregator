@@ -1,0 +1,14 @@
+@import url(./styles/NewsFeed.scss);
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #242151;
+    font-family: 'Roboto', sans-serif;
+
+    .rootContainer {
+        margin: 0px 45px;
+    }
+}
