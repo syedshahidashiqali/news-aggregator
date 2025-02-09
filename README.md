@@ -11,7 +11,7 @@ This is a **React + TypeScript** project that aggregates news from multiple sour
 
 ## Tech Stack
 - **Frontend:** React, TypeScript, SCSS, Ant Design
-- **State Management:** React Context API
+- **State Management:** React Hooks
 - **Data Sources:** NewsAPI, New York Times API
 - **Containerization:** Docker
 
@@ -80,7 +80,6 @@ Add the API keys to the `.env` file before running the app.
 ├── src/
 │   ├── components/ # Reusable UI components
 │   ├── services/   # API calls
-│   ├── context/    # State management
 │   ├── styles/     # SCSS
 │   ├── App.tsx
 │   ├── index.tsx
