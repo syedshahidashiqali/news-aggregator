@@ -1,8 +1,3 @@
-// const GUARDIAN_API_KEY = "e5e5debc-b622-478b-bb4e-2ed06913ae45";
-// const GUARDIAN_API_URL = "https://content.guardianapis.com/search";
-
-// const NEWS_API_KEY = "a8d6a823d5394b6f8ff6409390824cd1";
-// const NYT_API_KEY = "DE7Z9RJlCXoWMnhFWBMSVEGtfH9xcJzc";
 import axios from "axios";
 const NEWS_API_KEY = process.env.REACT_APP_NEWS_API_KEY ?? "";
 const NYT_API_KEY = process.env.REACT_APP_NYT_API_KEY ?? "";
